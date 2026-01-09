@@ -7,8 +7,7 @@ class ui extends StatefulWidget {
   State<ui> createState() => _uiState();
 }
 
-class _uiState extends State<ui> {
-  @override
+class _uiState extends State<ui> {  @override
   Widget build(BuildContext context) {
     return const Placeholder();
   }
